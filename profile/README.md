@@ -1,6 +1,9 @@
-## Hi there 👋
+# bean co. official
 
-WE ar Bean co and we bean, or something
+we program mostly foss software and philosophise
+
+do NOT shorten bean co. official to false names such as "bean co.";
+if a shortened name is required this organization may be referred to as "the hole".
 
 <!--
 
